@@ -1,0 +1,22 @@
+{
+  "name": "outliersnacks",
+  "version": "0.1.0",
+  "description": "OutlierSnacks.com website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/brianzelip/outliersnacks.git"
+  },
+  "keywords": [
+    "kale"
+  ],
+  "author": "Brian Zelip",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brianzelip/outliersnacks/issues"
+  },
+  "homepage": "https://github.com/brianzelip/outliersnacks#readme"
+}
