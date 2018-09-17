@@ -1,4 +1,4 @@
-# outliersnacks
+# outliersnacks.com
 
 Repo for overhaul of outliersnacks.com.
 
